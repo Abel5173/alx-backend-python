@@ -1,11 +1,21 @@
 #!/usr/bin/env python3
-'''Task 7's module.
-'''
+"""
+    Mixed Tuple
+"""
 from typing import Union, Tuple
 
 
 def to_kv(k: str, v: Union[int, float]) -> Tuple[str, float]:
-    '''Converts a key and its value to a tuple of the key and
-    the square of its value.
-    '''
-    return (k, float(v**2))
+    """
+        Args:
+            k: String
+            v: Union: Can be int or float
+
+        Return:
+            Tuple with string and int or float
+    """
+
+    cncat: Tuple(str, Union[int, float])
+    cncat = (k, v**2)
+
+    return cncat

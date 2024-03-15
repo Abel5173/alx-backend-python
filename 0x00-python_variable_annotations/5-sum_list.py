@@ -1,10 +1,22 @@
 #!/usr/bin/env python3
-'''Task 5's module.
-'''
+"""
+    List of floats annotations
+"""
 from typing import List
 
 
 def sum_list(input_list: List[float]) -> float:
-    '''Computes the sum of a list of floating-point numbers.
-    '''
-    return float(sum(input_list))
+    """
+        Args:
+            input_list: float numbers
+
+        Return:
+            Sum of the float numbers
+    """
+
+    result: float = 0
+
+    for x in input_list:
+        result += x
+
+    return result

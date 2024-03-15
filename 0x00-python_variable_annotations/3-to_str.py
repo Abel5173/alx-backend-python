@@ -1,9 +1,16 @@
 #!/usr/bin/env python3
-'''Module for task 3.
-'''
+"""
+    Conver float to integer
+"""
 
 
 def to_str(n: float) -> str:
-    '''Cast a floting type number in to a string.
-    '''
+    """
+        Args:
+            n: float number
+
+        Return:
+            Float of type string
+    """
+
     return str(n)
