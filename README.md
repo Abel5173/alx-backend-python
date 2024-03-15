@@ -1,10 +1,10 @@
 # alx-backend-python.
 
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210917204112/Top-10-Advance-Python-Concepts-That-You-Must-Know.png" width = "100%" height = "50%"/>
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*3qtgF-a3yeUFQl-SHpbxcA.png" width = "100%" height = "50%"/>
 
 ---
-This repository contains different python code which are mostly used to implement backend concepts. it is provided by the alx software engineering to the alx students who specilized on backend web development.
-## :pencil: **Author**
-### :man: Yidnekachew Bantrga
-- [Github](https://github.com/Yidne21)
-- [Linkedin](https://www.linkedin.com/in/yidnekachew-bantrga-801376234/)
+Python, a versatile and powerful programming language, offers a unique feature known as dynamic typing. 
+This characteristic allows variables to change data types at runtime, providing programmers with increased flexibility and ease of use. 
+
+### :man: Abel Zeleke
+- [Github](https://github.com/Abel5173)
